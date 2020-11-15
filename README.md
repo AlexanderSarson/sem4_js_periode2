@@ -66,6 +66,7 @@ PROS:
 - Easier to scale with sharding
 - Faster because the data is put in documents and not spread across multiple tables
 - More natural syntax – especially if you already know JSON
+
 CONS:
 - Stores redundant data
 
